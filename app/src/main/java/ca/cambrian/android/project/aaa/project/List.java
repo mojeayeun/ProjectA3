@@ -34,6 +34,7 @@ public class List extends AppCompatActivity {
     private static final String TAG_PARAMETER = "param";
 
     private static final String test ="test";
+    private static final String test2 ="test";
 
     //UI 관련
     private RecyclerView rv;
