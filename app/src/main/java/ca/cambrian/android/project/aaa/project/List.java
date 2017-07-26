@@ -25,7 +25,7 @@ import java.util.HashMap;
 
 public class List extends AppCompatActivity {
 
-    //Data
+    //Data - update
     private static final String TAG_TITLE = "title";
     private static final String TAG_SUBTITLE = "subtitle";
     private static final String TAG_IMAGE = "image";
@@ -33,6 +33,7 @@ public class List extends AppCompatActivity {
 
     private static final String TAG_PARAMETER = "param";
 
+    private static final String test ="test";
 
     //UI 관련
     private RecyclerView rv;
