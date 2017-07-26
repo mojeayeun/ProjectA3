@@ -36,6 +36,9 @@ public class List extends AppCompatActivity {
     private static final String test ="test";
     private static final String test2 ="test";
 
+    private static final String test3 ="test"; //branch
+
+
     //UI 관련
     private RecyclerView rv;
     private LinearLayoutManager mLinearLayoutManager;
